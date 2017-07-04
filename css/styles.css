@@ -16,12 +16,7 @@ li{
 .button-section{
 	text-align:center;
 }
-img{
-	display:block;
-	
-	width: 360px;
-	padding: 100px 0px 0px 270px;
-}
+
 .footer{
 	position: absolute;
 	bottom: 0;
