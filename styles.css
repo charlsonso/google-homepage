@@ -1,0 +1,29 @@
+ul{
+	list-style-type: none;
+}
+li{
+	display:inline;
+	margin: 10px 10px 0px 0px;
+	padding: 10px 10px 10px 10px;
+	border-radius: 10px 10px 10px 10px;
+}
+.header{
+	float:right;
+}
+.search-bar{
+	text-align:center;
+}
+.button-section{
+	text-align:center;
+}
+img{
+	display:block;
+	
+	width: 360px;
+	padding: 100px 0px 0px 270px;
+}
+.footer{
+	position: absolute;
+	bottom: 0;
+	
+}
